@@ -1,4 +1,4 @@
-module.exports.snapshot  = function (e) {
+function snapshot (e) {
     const o = {}
     let deep = 0
     debug(o, e)
