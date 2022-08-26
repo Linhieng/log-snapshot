@@ -1,0 +1,12 @@
+{
+  "name": "log-snapshot",
+  "version": "0.0.1",
+  "description": "在前端使用 console.log 输出后，在控制台展开时，数据并不是输出那一时刻的快照。该包目的就是用来解决这个问题的。确保能够输出真正的“快照",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "linhieng",
+  "license": "ISC"
+}
